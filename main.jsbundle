@@ -15354,7 +15354,7 @@ container:{
 flex:1,
 justifyContent:'center',
 alignItems:'center',
-backgroundColor:'#FF0000'},
+backgroundColor:'#000000'},
 
 welcome:{
 fontSize:20,
@@ -61784,4 +61784,4 @@ module.exports=NavigationHeader;
 });
 ;require("InitializeJavaScriptAppEngine");
 ;require("AwesomeProject/index.ios.js");
-__SSTOKENSTRING = "@generated SignedSource<<514b9badf75d385a480df2457a2a41a5>>";
+__SSTOKENSTRING = "@generated SignedSource<<9d98d4f7ab3b06da20fd17de71c85b5e>>";
